@@ -1,2 +1,2 @@
 # WFPing-Parallel
- Pings an Array of Computers in parallel and gather some informations
+ Pings a list of Computers in parallel and gather some informations.
